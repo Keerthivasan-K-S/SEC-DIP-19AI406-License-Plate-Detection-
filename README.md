@@ -55,11 +55,14 @@ display(result)
 ```
 
 ## Output
-<br>
+
+### Input Image
 <img width="800" height="400" alt="Screenshot 2025-11-22 233020" src="https://github.com/user-attachments/assets/97f14cae-797d-4771-b071-21b713a68ef7" />
-<br>
+
+### Detected Image
 <img width="800" height="400" alt="Screenshot 2025-11-22 233031" src="https://github.com/user-attachments/assets/4964d7b6-8b70-4b57-97bd-c632af58fa73" />
-<br>
+
+### Blurred Imgae
 <img width="800" height="400" alt="Screenshot 2025-11-22 233046" src="https://github.com/user-attachments/assets/e509829f-0456-4ded-ae98-720b984edf56" />
 
 ## Modification Done
